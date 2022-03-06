@@ -4,4 +4,7 @@ This webapp is fairly straightforward. The use of object oriented programming
 to bundle variables and functions together into classes and hashes to ensure 
 chain validity.  
 This is the finished streamlit application.  
-![pychain](./pychain.png)
+![pychain](./pychain.png)  
+
+A peek under the hood at the main `Block` class.  
+![block](./block.png)
